@@ -1,1 +1,1 @@
-https://github.com/katwhite/ono-tebe-nado/tree/main
+https://github.com/katwhite/ono-tebe-nado
