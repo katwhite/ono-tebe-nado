@@ -2,7 +2,7 @@
     display:grid;
     grid-template-columns: 1fr min-content 1fr;
     min-height: 292px;
-    padding: 92px 50px; 
+    padding: 92px 50px;
     align-items: center;
 }
 
@@ -179,7 +179,7 @@ a.header__logo {
     padding: 0px 40px 48px;
     font-size: 20px;
     line-height: 120%;
-    color: #FFFFFF;    
+    color: #FFF;
 }
 
 .card_type_book {
