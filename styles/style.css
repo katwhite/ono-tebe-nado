@@ -211,7 +211,7 @@ a.header__logo {
 }
 
 .about__column:first-child {
-    min-height: 563px;
+    height: 100%;
     width: 334px;
     display: flex;
     flex-direction: column;
@@ -255,6 +255,10 @@ a.header__logo {
     line-height: 119%;
     color: #000000;
     padding-bottom: 5px;
+}
+
+.about__text-paragraph:first-child {
+    padding-top: 100px;
 }
 
 .about__text-paragraph {
